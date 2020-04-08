@@ -1,0 +1,7 @@
+﻿Read Me First
+-------------
+
+This is the source code of a project that I am currently (as of 8/4/2000) working on as part of my masters by research programme in Theoretical Astrophysics. It used the PLUTO astrophysical modelling package, which is written in c, with a python wrapper.
+please email me at mo.b.awan.uk@gmail.com if you need any help navigating the code. Many thanks,
+
+Mohammed Basith Awan
