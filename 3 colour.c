@@ -2,6 +2,8 @@
 In the name of Allah, the Lord of Mercy in this life and the next
 program title: TheoreticalSolidStateBscProject.C
 author: Mohammed Basith Awan
+supervisor: Claudio Del Castelnovo
+@RHUL
 date: 21/11/2010
 objective: program is designed to investigate the nature of the patterns of
 hexagonal (honeycomb) crystalline structures using Baxter's 3 colour theorem
